@@ -44,6 +44,7 @@ dependencies:
   json_annotation: ^4.8.0
   # noSQL local db
   hive: ^2.2.3
+  hive_flutter: ^1.1.0
   # 의존성 주입을 위한 get_it
   get_it: ^7.2.0
   # 유저의 gps데이터를 갖고오기 위한 패키지
